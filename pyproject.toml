@@ -5,7 +5,7 @@ description = "first python project"
 authors = ["kamalesh <kamalesh.srinivasan1@freshworks.com>"]
 readme = "README.md"
 
-[tool.poetry.dependencies]
+[tool.poetry.dependencies]   
 python = "3.12"
 
 [build-system]
